@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/tercera-tarea-xxtedskccxx/EjerciciosCSharp/EjerciciosCSharp.csproj": {}
+    "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj": {}
   },
   "projects": {
-    "/workspaces/tercera-tarea-xxtedskccxx/EjerciciosCSharp/EjerciciosCSharp.csproj": {
+    "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/tercera-tarea-xxtedskccxx/EjerciciosCSharp/EjerciciosCSharp.csproj",
+        "projectUniqueName": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
         "projectName": "EjerciciosCSharp",
-        "projectPath": "/workspaces/tercera-tarea-xxtedskccxx/EjerciciosCSharp/EjerciciosCSharp.csproj",
+        "projectPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/tercera-tarea-xxtedskccxx/EjerciciosCSharp/obj/",
+        "outputPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
